@@ -1,3 +1,4 @@
 [Thumbnailer Entry]
 Exec=application-x-pesfile-thumbnailer -s %s %i %o
 MimeType=application/x-pesfile;
+
